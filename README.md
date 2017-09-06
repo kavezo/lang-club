@@ -8,7 +8,7 @@
 
 Thus, this repo was born. If you're not familiar with github, ehh... sorry? If you want to contribute changes, here's what you need to know (ask me for more details if this is not helpful):
 
-1. Install `git` on your local machine and get a github user account
+1. Install `git` on your local machine and get a github user account (also, you could try editing directly on the `github` website and ignoring the rest of the instructions)
 2. Find a place on your local machine where you want to keep the languages club pages
 3. Make a new directory with `git clone https://github.com/earosenberg/lang-club.git` in your shell (or git-bash, for you windows folks; if you've never used a shell before, the only non-git commands you need are `cd` and `ls`). This should create a new folder called `lang-club`
 4. Go into that folder, make the changes you want with emacs, Notepad++, a steady needle, or whatever you like
@@ -21,7 +21,7 @@ Thus, this repo was born. If you're not familiar with github, ehh... sorry? If y
 
 - Wait, wait, I thought this was a club for natural languages, not `git`, `html`, and `css`! What's going on?!
 
-- ¡Jaja, no te preocupes! Claro que sí, pero, ye know, we're nerds. (I also hope the unicode shows up properly...)
+  - ¡Jaja, no te preocupes! Claro que sí, pero, ye know, we're nerds.
 
 ## Website
 
