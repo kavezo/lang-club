@@ -25,4 +25,4 @@ Thus, this repo was born. If you're not familiar with github, ehh... sorry? If y
 
 ## Website
 
-The site is currently hosted on [http://stanford.edu/~atsang2/languagesclub/languagesclub.html](http://stanford.edu/~atsang2/languagesclub/languagesclub.html).
+The site is currently hosted on [http://stanford.edu/~atsang2/languagesclub.html](http://stanford.edu/~atsang2/languagesclub.html).
