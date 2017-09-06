@@ -1,0 +1,7 @@
+# Welcome to the Languages Club .gitignore!
+# This file is to make git ignore things!
+
+
+
+# We love you, emacs, but those tilde files are a mess
+*~ 
