@@ -3,6 +3,7 @@ body {
     display: table;
     padding: 0.25em 0.25em;
     width: 100%;
+    background-color: #FFFFEF
 }
 
 @media screen and (min-width: 50em) {
@@ -18,6 +19,7 @@ body {
 
 h1 {
     text-align: center;
+    
 }
 
 p, li {
